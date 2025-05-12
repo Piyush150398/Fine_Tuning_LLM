@@ -1,0 +1,7 @@
+**/IMDB_logs/**
+**/IMDB_results/** 
+**/logs/**
+**/mlruns/**
+**/our_finetuned_model_IMDB/**
+**/temp_results/**
+**/IMDB Dataset.csv/**
