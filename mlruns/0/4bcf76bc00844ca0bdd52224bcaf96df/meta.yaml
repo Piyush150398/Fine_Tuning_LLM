@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Data%20Science/Fine%20Tuning/EDA_Preprocessing/mlruns/0/4bcf76bc00844ca0bdd52224bcaf96df/artifacts
+end_time: 1746635280517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bcf76bc00844ca0bdd52224bcaf96df
+run_name: ./temp_results
+run_uuid: 4bcf76bc00844ca0bdd52224bcaf96df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746634908707
+status: 3
+tags: []
+user_id: USER
